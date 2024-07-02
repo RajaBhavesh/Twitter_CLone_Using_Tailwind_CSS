@@ -50,3 +50,19 @@ Open `index.html` in your preferred web browser to view the static UI.
 
 ```bash
 open index.html
+
+## Project Structure
+twitter-clone/
+├── index.html
+├── css/
+│   └── styles.css
+├── src/
+│   └── styles.css
+├── README.md
+└── tailwind.config.js
+
+- index.html: Main HTML file for the project.
+- css/styles.css: Compiled Tailwind CSS file.
+- src/styles.css: Source CSS file with Tailwind directives.
+- tailwind.config.js: Configuration file for Tailwind CSS.
+- README.md: Project documentation file.
